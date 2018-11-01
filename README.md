@@ -1,7 +1,7 @@
 # Developer Test
 ## Skills Test for Front-end Developer Candidates
 
-Hi there! If you're here, you're probably looking to take our Developer Test as part of our interview process at Story Block. We like people who are can follow instructions, take initiaitive, and fill in the gaps on their own if need be. Have fun, be creative, and good luck!
+Hi there! If you're here, you're probably looking to take our Developer Test as part of our interview process at Story Block. We like people who can follow instructions, take initiaitive, and fill in the gaps on their own if need be. Have fun, be creative, and good luck!
 
 1. Sign up for a Hubspot developer discovery kit: https://designers.hubspot.com/discoverykit
 1. Within the Hubspot Design Tools, create the following for your developer test:
