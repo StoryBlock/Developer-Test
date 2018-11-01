@@ -4,7 +4,7 @@
 Hi there! If you're here, you're probably looking to take our Developer Test as part of our interview process at Story Block. We like people who can follow instructions, take initiaitive, and fill in the gaps on their own if need be. Have fun, be creative, and good luck!
 
 1. Sign up for a Hubspot developer discovery kit: https://designers.hubspot.com/discoverykit
-1. Within the Hubspot Design Tools, create the following for your developer test:
+1. When you have your Development Sandbox setup, navigate to the Hubspot Design Tools and create the following items for your developer test:
     1. A new CSS file (your styles will go here)
     1. A new JS file (your javascript will go here)
     1. A new Drag and Drop template
