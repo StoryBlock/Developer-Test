@@ -11,7 +11,7 @@ Oh, and don't forget to read all of these instructions before you start. It's no
     1. A new JS file (your javascript will go here)
     1. A new Drag and Drop template
 1. Now the fun starts! 
-    1. Customize your template, CSS, and JS to match <a href="https://xd.adobe.com/spec/5a66328f-2a41-4043-673b-8095dbadee8d-2c57/" target="_blank">this design </a>.
+    1. Customize your template, CSS, and JS to match <a href="https://xd.adobe.com/spec/5a66328f-2a41-4043-673b-8095dbadee8d-2c57/" target="_blank">this design</a>
     1. You'll notice you can download all the assets and styles you need to the make this design at that link
     1. You'll also notice there's no mobile version -- we want you to decide how this page acts responsively
 1. Publish your template when you're done
