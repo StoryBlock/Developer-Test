@@ -1,9 +1,9 @@
 # Developer Test
 ## Skills Test for Front-end Developer Candidates
 
-Hi there! If you're here, you're probably looking to take our Developer Test as part of our interview process at Story Block. We like people who can follow instructions, take initiaitive, and fill in the gaps on their own if need be. Have fun, be creative, and good luck! 
+Hi there! If you're here, you're probably looking to take our Developer Test as part of our interview process at Story Block. We like people who can follow instructions, take initiaitive, and fill in the gaps on their own if need be. Unless you've been informed otherwise, this test has no official deadline or time requirements. But, do know that if we have to fill a position urgently, we won't wait on your submission to do so. Have fun, be creative, and good luck! 
 
-Oh, and don't forget to read all of these instructions before you start. It's no fun to miss something important at the end.
+Oh, and don't forget to read all of these instructions before you start. It's no fun to miss something important at the end. 
 
 1. Sign up for a Hubspot developer discovery kit: https://designers.hubspot.com/discoverykit (or just skip to sign up for a Developer Sandbox here: https://app.hubspot.com/signup/standalone-cms-developer/)
 1. When you have your Development Sandbox setup, navigate to the Hubspot Design Tools and create the following items for your developer test:
